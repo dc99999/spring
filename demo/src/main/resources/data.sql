@@ -1,0 +1,1 @@
+insert into user_details values ('datta', 'd1');
